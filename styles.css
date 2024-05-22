@@ -1,0 +1,19 @@
+.container {
+    text-align: center;
+}
+.btn {
+    padding:5px 15px;
+    margin: 5px;
+    border: none;
+    outline: none;
+    background-color: dodgerblue;
+    color: white;
+    font-size: 1rem;
+    font-weight: 500;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: .5s;
+}
+.btn:hover {
+    box-shadow: .5px .5px 6px rgb(10, 81, 153);
+}
